@@ -35,3 +35,7 @@ for a specific example on the ground
 Note that some preconditions come from the other user journeys and use cases, see steps 2-3 of 
 [https://solutions.dial.community/use_cases/unconditional_social_cash_transf/use_case_steps/](https://solutions.dial.community/use_cases/unconditional_social_cash_transf/use_case_steps/)
 
+
+## Cross-Building Block Interaction Diagram
+
+![Interaction Diagram](images/UC-E-USCT-001.png)
