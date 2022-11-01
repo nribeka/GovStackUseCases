@@ -39,4 +39,4 @@ Note that some preconditions come from the other user journeys and use cases, se
 
 ## Cross-Building Block Interaction Diagram
 
-![Interaction Diagram](https://github.com/nribeka/GovStackUseCases/blob/main/images/UC-E-USCT-001.png)
+![Interaction Diagram](https://github.com/nribeka/GovStackUseCases/blob/main/images/UC-E-USCT-001.png?raw=true)
