@@ -1,4 +1,4 @@
-## Use Case Step Name (Updated)
+## Use Case Step Name (Updated) - Using useUser
 
 Updated Name: 
 Eligibility Determination and Benefit Package(s) Design - Unconditional Social Cash Transfer
